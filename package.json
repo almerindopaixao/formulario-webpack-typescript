@@ -1,0 +1,25 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "formulario web utilizando typescript e webpack",
+  "main": "index.ts",
+  "repository": "https://github.com/almerindopaixao/formulario-webpack-typescript.git",
+  "author": "Almerindo Paixão <almerindopaixao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.1.1",
+    "@typescript-eslint/parser": "^4.1.1",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1",
+    "ts-loader": "^8.0.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}

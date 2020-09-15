@@ -1,1 +1,1 @@
-console.log('React');
+import './modules/form-control';
